@@ -5,5 +5,5 @@ In all codes, there will be a text that explains the code's function.
                        // El funcionamiento de este código es mostrar el funcionamiento de un LED encendido por un segundo y apagado por un segundo.
 2. TrafficLight-Semaforo_Arduino : // The function of this code, is demostrate a traffic light in F1. 
                                    // El funcionamiento de este código es mostrar un ejemplo de un semáforo en F1. 
-3. //This code show how a 7-Segment Display works in Arduino. The display shows the numbers 0 to 9.
-//Este código demuestra como funciona el display 7 segmentos, mostrando los números del 0 al 9.
+3. Counter_Contador-Arduino:   //This code show how a 7-Segment Display works in Arduino. The display shows the numbers 0 to 9.
+                               //Este código demuestra como funciona el display 7 segmentos, mostrando los números del 0 al 9.
