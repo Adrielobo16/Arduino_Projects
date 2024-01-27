@@ -9,3 +9,5 @@ In all codes, there will be a text that explains the code's function.
                                 //Este código demuestra como funciona el display 7 segmentos, mostrando los números del 0 al 9.
 4. PIR_Servo : //This code works when the PIR sensor detects motion; the servo motor will move to a 90-degree angle.
                //Este código funciona cuando el sensor PIR detecta un movimiento, el servomotor se moverá a un ángulo de 90 grados.
+5. Pot_LED: //Basic code for use a potentiometer to control the brightness of an LED.
+            //Código básica para controlar brillo de un LED con un potenciometro. 
